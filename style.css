@@ -1,0 +1,13 @@
+#headingcss{
+    text-align:center; margin-top:100px;        /* id selector*/
+    color:red; bg color:green;
+
+}
+.aligncss{
+text-align:right;
+margin-top: 100px;
+}
+.colorcss{
+color:pink;
+background-color: white;
+}
